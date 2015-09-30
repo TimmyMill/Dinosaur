@@ -24,6 +24,7 @@ public class DinosaurSupervisor {
         brachiosaurus.roar();
 
         Dinosaur dogosaurus = new Dinosaur();
+        System.out.println("I am a made up dinosaur.");
 
 
     }
