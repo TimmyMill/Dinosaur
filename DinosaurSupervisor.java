@@ -20,6 +20,9 @@ public class DinosaurSupervisor {
 
         System.out.println("The name of this dinosaur is " + velociraptor.name);
 
+        Dinosaur brachiosaurus = new Dinosaur();
+        brachiosaurus.roar();
+
 
     }
 }
