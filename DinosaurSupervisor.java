@@ -18,5 +18,8 @@ public class DinosaurSupervisor {
         velociraptor.name = "Velociraptor";
         velociraptor.roar();
 
+        System.out.println("The name of this dinosaur is " + velociraptor.name);
+
+
     }
 }
