@@ -23,6 +23,8 @@ public class DinosaurSupervisor {
         Dinosaur brachiosaurus = new Dinosaur();
         brachiosaurus.roar();
 
+        Dinosaur dogosaurus = new Dinosaur();
+
 
     }
 }
